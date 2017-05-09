@@ -16,7 +16,7 @@ https://vimeo.com/95307499
 ### how does it work
 
 to build the dashboard;
-
+```
     1. gem install dashing
     2. dashing new <project name>
     3. cd to <project name> and bundle 
@@ -25,7 +25,8 @@ to build the dashboard;
     5. dashing generate job <job name>
     6. use widget, dashboard and job files 
     7. dashing start
+```
 
-### thanks
+### thanks
 
 Daniel Beauchamp is the man.
