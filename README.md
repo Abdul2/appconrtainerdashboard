@@ -13,6 +13,10 @@ and
 
 https://vimeo.com/95307499
 
+### why called it sanning
+
+sanning means truth in swedish
+
 ### how does it work
 
 to build the dashboard;
